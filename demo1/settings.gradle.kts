@@ -6,7 +6,7 @@ dependencyResolutionManagement {
             version("springboot", "3.2.1")
             version("jacksonKotlin", "2.16.1")
             version("kotlinReflect", "1.9.22")
-            version("lombok", "1.18.30")
+            version("lombok", "1.18.28")
 
             version("kotlin", "1.9.22")
             version("junit-jupiter", "5.10.1")
