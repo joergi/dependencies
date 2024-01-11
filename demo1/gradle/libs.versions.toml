@@ -6,7 +6,7 @@ kotlin = "1.9.22"
 kotlinReflect = "1.9.22"
 lombok = "1.18.28"
 springboot = "3.2.1"
-springDependencyManagementVersion = "1.1.1"
+springDependencyManagementVersion = "1.1.4"
 
 [libraries]
 springBootStarterWeb = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "springboot" }
