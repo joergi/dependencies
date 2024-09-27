@@ -5,6 +5,7 @@ name: Enables auto-merge on dependency pull requests
       - main
     paths:
       - 'demo1/**'
+      - '.github/workflows/**'
   workflow_dispatch: {}
 
 jobs:
